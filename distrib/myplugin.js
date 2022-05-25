@@ -11,6 +11,7 @@ class MyPlugin{
         
     }
     testConflict(){
+    test(){
         
     }
 }
